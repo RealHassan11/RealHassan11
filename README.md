@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I’m Shehu Hassan 👋
 
-<!--
-**RealHassan11/RealHassan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I’m an Economics graduate building my skills in data analysis and using data to solve practical business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Tools
+
+* Microsoft Excel
+* SQL
+* Power BI
+* Python
+* Data Cleaning
+* Data Visualization
+* Exploratory Data Analysis
+
+📊 What I’m Currently Doing
+
+* Building practical data analysis projects
+* Developing my data analytics portfolio
+* Improving my SQL and Power BI skills
+* Working with real-world datasets
+* Learning how to turn data into meaningful business insights
+
+🚀 My Goal
+
+To develop strong data analytics skills and build a portfolio that demonstrates my ability to analyse data, communicate insights, and support better business decisions.
+
+📁 Featured Projects
+
+Projects coming soon.
